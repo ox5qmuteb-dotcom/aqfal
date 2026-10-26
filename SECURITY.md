@@ -4,7 +4,7 @@
 
 ### Admin Login Credentials
 **Username:** `admin`  
-**Password:** `Aqfal@2026Secure!`
+**Password:** `Aqfal@﷼779!`
 
 ⚠️ **IMPORTANT:** Change this password immediately after first login!
 
